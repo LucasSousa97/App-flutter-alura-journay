@@ -1,0 +1,1 @@
+json-server-auth --watch --host 192.168.100.37 db.json  -r routes.json
