@@ -1,16 +1,25 @@
-# flutter_webapi_second_course
+# App Flutter
 
-Aplicação para o segundo curso de WebAPI da Formação Flutter da Alura
+<img src="https://blog.scottlogic.com/bquinn/assets/Flutter_logo_text.png" width="200">
 
-## Getting Started
+## Descrição
 
-This project is a starting point for a Flutter application.
+Este aplicativo permite a de uma jornay
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias Utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Linguagem de Programação**: Dart
+- **Framework**: Flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Funcionalidades Principais
+
+- CRUD (CRIA, BUSCA, ATUALIZA e EXCLUI Tarefa)
+
+## Instalação
+
+Instruções de como instalar e configurar o aplicativo localmente. Por exemplo:
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/LucasSousa97/App-flutter-alura-journay.git
